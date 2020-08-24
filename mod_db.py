@@ -1,6 +1,6 @@
 """
     Author:          Hartmut Mathussek
-    Date Created:    08/02/2020
+    Date Created:    08/23/2020
     Functionality:
                      This module handles all the database stuff
                      

@@ -1,6 +1,6 @@
 """
     Author:          Hartmut Mathussek
-    Date Created:    07/26/2020
+    Date Created:    08/23/2020
     Functionality:
                      This file contains the investor, stock and bond classes
                      including methods to calculate earnings/loss and yearly yield.
