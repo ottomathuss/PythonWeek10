@@ -2,4 +2,15 @@ Add your email and password to your email server e.g.
 
 john.doe@acme.com roadrunner
 
-roadrunner is the password. Also make sure to specify the proper SMTP server and port in line 28 of module mod_email.py.
+roadrunner is the password. 
+
+There are a few changes you need to make in order to get it to work on your end:
+
+Make sure to specify the proper SMTP server and port in line 28 of module mod_email.py.
+
+Change the email address of Bob Smith to an email that you can access. See line 63 of the main program.
+
+Change my email address in line 62 of mod_email.py to your own email address.
+
+I think that's it. Good luck!
+
